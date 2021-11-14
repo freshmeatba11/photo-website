@@ -48,6 +48,7 @@ nav ul li a {
 .search button {
   background: #490149;
   color: white;
+  cursor: pointer;
 }
 
 .footer {
@@ -67,6 +68,9 @@ nav ul li a {
 .pictures .picture {
   padding: 1rem;
   width: 400px;
+}
+.pictures .picture p {
+  padding: 0.25rem 0;
 }
 .pictures .picture .imageContainer {
   overflow: hidden;

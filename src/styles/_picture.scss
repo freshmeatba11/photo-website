@@ -7,6 +7,9 @@
   .picture {
     padding: 1rem;
     width: 400px;
+    p {
+      padding: 0.25rem 0;
+    }
     .imageContainer {
       overflow: hidden;
       height: 40vh;
